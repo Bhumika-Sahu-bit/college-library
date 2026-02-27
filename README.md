@@ -4,7 +4,7 @@ A simple and clean **College Library resource website** built with **Node.js, Ex
 This app allows users to explore semester-wise notes and study materials after signing up and logging in.
 
 🔗 **Live Demo:**  
-👉 https://college-library.onrender.com/home :contentReference[oaicite:1]{index=1}
+👉 https://college-library.onrender.com/home 
 
 ---
 
